@@ -1,7 +1,7 @@
 [project]
 name = "human-activity-recognition"
 version = "0.1.0"
-description = "Add your description here"
+description = "Human Activity Recognition from Health Sensor Data"
 readme = "README.md"
 requires-python = ">=3.14"
 dependencies = [
